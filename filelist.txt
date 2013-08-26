@@ -1,0 +1,4 @@
+.:
+filelist.txt
+xpud
+xpud.menu
